@@ -1,4 +1,4 @@
-[![Header](https://github.com/Gazinur72/Gazinur72/blob/main/assets/baner.png)]
+[![Header](https://github.com/Gazinur72/Gazinur72/blob/main/assets/baner_1.jpg)]
 
 ## О бо мне. Я начинающий QA Engineer. 
 
